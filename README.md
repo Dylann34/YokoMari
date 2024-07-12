@@ -17,7 +17,7 @@
 <!-- !-->
 <!-- Descripcion !-->
 <div align="center">
-  <p> I'm about to graduate as a <strong>systems engineer</strong> and I'm passionate about programming and web design.<br> I'm always looking to learn and explore new technologies.<br> Connect with me to discuss web development and more!<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJmeDF2N2xkMGI4Y3c4bWFnZnRkMWlhNXZzajB4N3oxYWphNXRsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TOPDrBo7HyfHJHKdoq/giphy.gif" width="8%"> </p>
+  <p> I'm about to graduate as a <strong>systems engineer</strong> and I'm passionate about programming and web design.<br> I'm always looking to learn and explore new technologies.<br> Connect with me to discuss web development and more!<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJmeDF2N2xkMGI4Y3c4bWFnZnRkMWlhNXZzajB4N3oxYWphNXRsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TOPDrBo7HyfHJHKdoq/giphy.gif" width="6%"> </p>
 </div>
 
 <!-- Lenguajes y Herramientas !-->
@@ -41,7 +41,7 @@
 <div align="center">
   <h2> :pushpin: Languages-Tools :pushpin: </h2>
     <p> <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="40%"/> </p>
-    <p> <img src="https://skillicons.dev/icons?i=windows,kali,,mysql,postgres,,blender,wordpress,vscode" width="47%"/> </p>
+    <p> <img src="https://skillicons.dev/icons?i=mysql,postgres,,windows,kali,,blender,wordpress,vscode" width="47%"/> </p>
     <!-- <p> <img src="https://skillicons.dev/icons?i=mysql,postgres" width="10%"/> </p>
     <p> <img src="https://skillicons.dev/icons?i=blender,wordpress,vscode" width="15%"/> </p>!-->
 </div>
@@ -168,7 +168,7 @@
 <!-- Contribucciones - juego Serpiente !-->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg"
-       alt="snake" width="80%"/>
-  <!-- <img width=60% src="https://streak-stats.demolab.com?user=YokoMari&theme=github-dark-blue&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=161B22" alt="GitHub Streak" /> !-->
+  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="80%"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=YokoMari&theme=github-dark-blue&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=650&card_height=150&background=161B22&ring=00C647&fire=EB5E0C" alt="GitHub Streak" />
 </div>
