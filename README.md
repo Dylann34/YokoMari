@@ -22,15 +22,108 @@
 
 <!-- Lenguajes y Herramientas !-->
 <div align="center">
+  
   <h2> :pushpin: Languages-Frameworks-Tools :pushpin: </h2>
-  <h3> Operating Sytem </h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows,kali" width="15%"/> </a>
-  <h3> Programming and Markup Languages </h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="60%"/> </a>
-  <h3> Database </h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,postgres" width="15%"/> </a>
-  <h3> Other </h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flask,notion,wordpress" width="22.5%"/> </a>
+  <h4> Operating Sytem </h4>
+    <p href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows,kali" width="10%"/> </p>
+  <h4> Programming and Markup Languages </h4>
+    <p href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="40%"/> </p>
+  <h4> Database </h4>
+    <p href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,postgres" width="10%"/> </p>
+  <h4> Other </h4>
+    <p href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=notion,wordpress,vscode" width="15%"/> </p>
+
+</div>
+
+<div align="center">
+  <table>
+  <tr>
+    <td align="center" width="13,33%">
+      <h4> Operating System </h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,kali" width="100%"/></a>
+    </td>
+    <td align="center" width="53,33%">
+      <h4>Programming and Markup Languages</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="100%"/></a>
+    </td>
+    <td align="center" width="13,33%">
+      <h4>Database</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres" width="100%"/></a>
+    </td>
+    <td align="center" width="20%">
+      <h4>Other</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=notion,wordpress,vscode" width="100%"/></a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div>
+  <table align="center" width="100%">
+  <tr>
+    <td colspan="3" align="center">
+      <h2> :pushpin: Languages-Frameworks-Tools :pushpin: </h2>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>Operating System</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=windows,kali" width="50%"/>
+      </a>
+    </td>
+    <td align="center">
+      <h4>Programming and Markup Languages</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="100%"/>
+      </a>
+    </td>
+    <td align="center">
+      <h4>Database</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" width="50%"/>
+      </a>
+      <h4>Other</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=notion,wordpress,vscode" width="75%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div>
+  <table align="center" width="100%">
+  <tr>
+    <td colspan="3" align="center">
+      <h4> Programming and Markup Languages </h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4> Operating System </h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=windows,kali" width="90%"/>
+      </a>
+    </td>
+    <td align="center">
+      <h4>Database</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" width="100%"/>
+      </a>
+    </td>
+    <td align="center">
+      <h4>Other</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=notion,wordpress,vscode" width="90%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
