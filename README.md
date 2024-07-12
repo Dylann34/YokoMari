@@ -21,8 +21,10 @@
 </div>
 
 <!-- Lenguajes y Herramientas !-->
+
+<!-- v1 !-->
+<!--
 <div align="center">
-  
   <h2> :pushpin: Languages-Frameworks-Tools :pushpin: </h2>
   <h4> Operating Sytem </h4>
     <p href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows,kali" width="10%"/> </p>
@@ -32,9 +34,21 @@
     <p href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,postgres" width="10%"/> </p>
   <h4> Other </h4>
     <p href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=notion,wordpress,vscode" width="15%"/> </p>
+</div>
+!-->
 
+<!-- v2 !-->
+<div align="center">
+  <h2> :pushpin: Languages-Tools :pushpin: </h2>
+    <p> <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="40%"/> </p>
+    <p> <img src="https://skillicons.dev/icons?i=windows,kali,,mysql,postgres,,blender,wordpress,vscode" width="47%"/> </p>
+    <!-- <p> <img src="https://skillicons.dev/icons?i=mysql,postgres" width="10%"/> </p>
+    <p> <img src="https://skillicons.dev/icons?i=blender,wordpress,vscode" width="15%"/> </p>!-->
 </div>
 
+
+<!-- v3 !-->
+<!--
 <div align="center">
   <table>
   <tr>
@@ -57,7 +71,10 @@
   </tr>
 </table>
 </div>
+!-->
 
+<!-- v4 !-->
+<!--
 <div>
   <table align="center" width="100%">
   <tr>
@@ -90,9 +107,11 @@
     </td>
   </tr>
 </table>
-
 </div>
+!-->
 
+<!-- v5 !-->
+<!-- 
 <div>
   <table align="center" width="100%">
   <tr>
@@ -124,15 +143,32 @@
     </td>
   </tr>
 </table>
-
 </div>
+!-->
 
+<!-- v6 !-->
+<!--
+<div align="center" >
+  <h2> :pushpin: Languages-Tools :pushpin: </h2>
+    <p class = "lenguajes"> <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="50%"/> </p>
+    <p class = "SO"> <img src="https://skillicons.dev/icons?i=mysql,postgres" width="12.5%"/> </p>
+    <p class = "BD"> <img src="https://skillicons.dev/icons?i=windows,kali" width="12.5%"/> </p>
+    <p class = "IDE">  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg' width="5%"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg' width="5%%"></p>
+    <p class = "Otros"> <img src="https://skillicons.dev/icons?i=wordpress,blender,ai" width="18.75%"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg' width="5.5%"></p>
+    </div> !-->
+
+
+
+<div align="center">
+  <h2>:star2: Profile Stats :star2:</h2>
+  <img width=350em src="https://github-readme-stats-salesp07.vercel.app/api?username=YokoMari&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=5" alt="readme stats" />
+  <img width=310em src="https://github-readme-stats.vercel.app/api/top-langs?username=YokoMari&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=3" alt="languages graph"/>
+</div>
 
 <!-- Contribucciones - juego Serpiente !-->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg"
-       alt="snake" width="80%"/></a>
+       alt="snake" width="80%"/>
+  <!-- <img width=60% src="https://streak-stats.demolab.com?user=YokoMari&theme=github-dark-blue&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=161B22" alt="GitHub Streak" /> !-->
 </div>
-
-
