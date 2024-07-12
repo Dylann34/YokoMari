@@ -14,4 +14,9 @@
   <p> I'm about to graduate as a <strong> systems engineer </strong>and I'm passionate about programming and web design. I'm always looking to learn and explore new technologies. Connect with me to discuss web development and more! </p>
 </div>
 
+<div align="center">
+  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg"
+       alt="snake" /></a>
+</div>
+
 
