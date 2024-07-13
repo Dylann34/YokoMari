@@ -1,6 +1,6 @@
 <!-- Titulo !-->
 <div align="center">
-  <h1 align="center">:gem: ¡Hi! I'm Maria :gem:</h1>
+  <h1 align="center">:gem: ¡Hi!&emsp;I'm Maria :gem:</h1>
   
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBteXQ5a215bHR1bzMwZ2FldjdldnNpNDNxeWs5N2Iwd3Rzamh4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cB7j5PLO5ZTRCp1HHA/giphy.gif" width="8%"> !--> 
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRxbHh4bDVhb2JwZ3d4cjAyN2hmcTQ4cDdvYjAxdHFyODllN2dhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S9hlOpV7khnYYu4nyT/giphy.gif" width="8%"> !-->
