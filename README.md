@@ -33,7 +33,7 @@
 
 <!-- v2 !-->
 <div align="center">
-  <h2> :pushpin: Languages-Tools :pushpin: </h2>
+  <h2> 🛠️ Languages-Tools 🛠️ </h2>
     <p> <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="450 em"/> </p>
     <p> <img src="https://skillicons.dev/icons?i=mysql,postgres,,windows,kali,,blender,wordpress,vscode" width="530 em"/> </p>
     <!-- <p> <img src="https://skillicons.dev/icons?i=mysql,postgres" width="10%"/> </p>
