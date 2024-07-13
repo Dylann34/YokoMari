@@ -178,11 +178,11 @@
   <h2>🐍 My Contributions 🐍</h2>
   <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="500 em"/>
   <br>
-  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="100%"/>
+  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="90%"/>
   <br>
-  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="500 vw "/>
+  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="500 vw"/>
   <br>
-  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="100 vw "/>
+  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="400 vw"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=YokoMari&theme=github-dark-blue&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=650&card_height=150&background=161B22&ring=00C647&fire=EB5E0C" alt="GitHub Streak" />
 </div>
