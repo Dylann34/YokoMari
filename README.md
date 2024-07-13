@@ -1,26 +1,44 @@
 <!-- Titulo !-->
 <div align="center">
   <h1 align="center">:gem: ¡Hi! I'm Maria :gem:</h1>
+  
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBteXQ5a215bHR1bzMwZ2FldjdldnNpNDNxeWs5N2Iwd3Rzamh4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cB7j5PLO5ZTRCp1HHA/giphy.gif" width="8%"> !--> 
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRxbHh4bDVhb2JwZ3d4cjAyN2hmcTQ4cDdvYjAxdHFyODllN2dhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S9hlOpV7khnYYu4nyT/giphy.gif" width="8%"> !-->
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ5eDBmanZqYzF2ODdzYW8zdHZvcHJlM3Z3N3Q1aWIzcWIzZjZnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AOXNxxIJuBQdNTBblp/giphy.gif" width="35"> !-->
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE0MmhqeXVhbGZ3MXFrczN6bm92bGczNDlpemd1ZzR4eHl5c3ExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3OYWddigLC3NAL9bhD/giphy.gif" width="35"> !-->
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZwZGFtY2R3ajFzNGt0ZXo5NWJ2enN5anhmanNvMTZmZ3VraXVhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzHdOn3AO0NisByOdX/giphy.gif" width="35"> !-->
   <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pxY3NrdHVkcTRydnZ1eG5tNXU5ZTE1MmdubDh1N2xrdGthY3RmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R2DTTteNdmFAUmN8cj/giphy.gif" width="35"> !-->
-
   <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=35&duration=3000&pause=500&color=21CDF7&center=true&vCenter=true&random=false&width=435&lines=Web+Designer;Full+Stack;UI%2FUX" alt="Typing SVG" /></a> !-->
 
-  <!-- Palabras Claves !-->
-  <p><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=35&duration=3000&pause=500&color=21CDF7&center=true&vCenter=true&random=false&width=435&lines=Web+Designer;Full+Stack;UI%2FUX" alt="Typing SVG" /></p>
+
+<!-- Letrero Palabras Claves !-->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=35&duration=3000&pause=500&color=21CDF7&center=true&vCenter=true&random=false&width=435&lines=Web+Designer;Full+Stack;UI%2FUX" alt="Typing SVG" />
 </div>
 
-<!-- !-->
+
 <!-- Descripcion !-->
 <div align="center">
-  <p> I'm about to graduate as a <strong>systems engineer</strong> and I'm passionate about programming and web design.<br> I'm always looking to learn and explore new technologies.<br> Connect with me to discuss web development and more!<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJmeDF2N2xkMGI4Y3c4bWFnZnRkMWlhNXZzajB4N3oxYWphNXRsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TOPDrBo7HyfHJHKdoq/giphy.gif" width="6%"> </p>
+  <p> I'm about to graduate as a <strong>systems engineer</strong> and I'm passionate about programming and web design.<br> I'm always looking to learn and explore new technologies.<br><br> Connect with me to discuss web development and more! </p> 
+<!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJmeDF2N2xkMGI4Y3c4bWFnZnRkMWlhNXZzajB4N3oxYWphNXRsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TOPDrBo7HyfHJHKdoq/giphy.gif" width="6%"> !--> 
+
+<!-- Contactos !-->
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat&link=https%3A%2F%2Fwww.linkedin.com"  height="35em" alt="gmail"/></a> 
+  &emsp;
+  <a href="https://www.linkedin.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0076b2&logoColor=white&labelColor=&style=flat&link=https%3A%2F%2Fwww.linkedin.com" height="35em" alt="linkedin"/></a>
+  <br><br>
 </div>
 
 <!-- Lenguajes y Herramientas !-->
+
+<!-- v2 !-->
+<div align="center">
+  <h2> :pushpin: Languages-Tools :pushpin: </h2>
+    <p> <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="40%"/> </p>
+    <p> <img src="https://skillicons.dev/icons?i=mysql,postgres,,windows,kali,,blender,wordpress,vscode" width="47%"/> </p>
+    <!-- <p> <img src="https://skillicons.dev/icons?i=mysql,postgres" width="10%"/> </p>
+    <p> <img src="https://skillicons.dev/icons?i=blender,wordpress,vscode" width="15%"/> </p>!-->
+</div>
 
 <!-- v1 !-->
 <!--
@@ -36,16 +54,6 @@
     <p href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=notion,wordpress,vscode" width="15%"/> </p>
 </div>
 !-->
-
-<!-- v2 !-->
-<div align="center">
-  <h2> :pushpin: Languages-Tools :pushpin: </h2>
-    <p> <img src="https://skillicons.dev/icons?i=css,html,js,py,c,cpp,java,php" width="40%"/> </p>
-    <p> <img src="https://skillicons.dev/icons?i=mysql,postgres,,windows,kali,,blender,wordpress,vscode" width="47%"/> </p>
-    <!-- <p> <img src="https://skillicons.dev/icons?i=mysql,postgres" width="10%"/> </p>
-    <p> <img src="https://skillicons.dev/icons?i=blender,wordpress,vscode" width="15%"/> </p>!-->
-</div>
-
 
 <!-- v3 !-->
 <!--
@@ -158,7 +166,7 @@
     </div> !-->
 
 
-
+<!-- Estadisticas !-->
 <div align="center">
   <h2>:star2: Profile Stats :star2:</h2>
   <img width=350em src="https://github-readme-stats-salesp07.vercel.app/api?username=YokoMari&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=5" alt="readme stats" />
