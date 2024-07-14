@@ -19,7 +19,8 @@
 <!-- Descripcion !-->
 <div align="center">
   <p> I'm about to graduate as a <strong>systems engineer</strong> and I'm passionate about programming and web design.<br> I'm always looking to learn and explore new technologies.<br><br> Connect with me to discuss web development and more! </p> 
-<!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJmeDF2N2xkMGI4Y3c4bWFnZnRkMWlhNXZzajB4N3oxYWphNXRsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TOPDrBo7HyfHJHKdoq/giphy.gif" width="6%"> !--> 
+
+  <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJmeDF2N2xkMGI4Y3c4bWFnZnRkMWlhNXZzajB4N3oxYWphNXRsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TOPDrBo7HyfHJHKdoq/giphy.gif" width="6%"> !--> 
 
 <!-- Contactos !-->
   <a href="https://www.linkedin.com" target="_blank">
