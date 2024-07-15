@@ -26,7 +26,7 @@
   <a href="mailto:maria.garcia.riveros222@gmail.com?subject=Asunto&body=Hola,%20me%20gustaría%20contactarte" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat"  height="35em" alt="gmail"/></a> 
   &emsp;
-  <a href="https://www.linkedin.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0076b2&logoColor=white&labelColor=&style=flat&link=https%3A%2F%2Fwww.linkedin.com" height="35em" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/maria-valentina-garcia-riveros/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0076b2&logoColor=white&labelColor=&style=flat" height="35em" alt="linkedin"/></a>
   <br><br>
 </div>
 
